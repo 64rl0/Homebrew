@@ -44,12 +44,17 @@ CASKS=(
     'transmit'
 )
 
+echo -e "Installing Formulas..."
 for formula in "${FORMULAS[@]}"; do
-    echo brew install $formula
+    echo -e "Installing ${formula}..."
+    brew install "${formula}"
 done
 
+echo -e ""
 
+echo -e "Installing Casks..."
 for cask in "${CASKS[@]}"; do
-    echo brew install --cask $cask
+    echo -e "Installing ${cask}..."
+    brew install --cask "${cask}"
 done
 
