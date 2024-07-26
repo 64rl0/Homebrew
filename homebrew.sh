@@ -118,16 +118,14 @@ CASKS=(
     'dropbox'
 )
 
-echo -e "Installing Formulas..."
+echo -e "\n${bold_green}########################\n# Installing Formulas...\n########################${end}\n"
 for formula in "${FORMULAS[@]}"; do
     echo -e "${green}${package} Installing ${formula}..."
     brew install "${formula}"
     echo -e "\n"
 done
 
-echo -e ""
-
-echo -e "Installing Casks..."
+echo -e "\n${bold_green}####################\n# Installing Cask...\n####################${end}\n"
 for cask in "${CASKS[@]}"; do
     echo -e "${green}${package} Installing ${cask}..."
     brew install --cask "${cask}"
