@@ -32,6 +32,17 @@ FORMULAS=(
 
 CASKS=(
     'alacritty'
+    'google-chrome'
+    'quip'
+    'db-browser-for-sqlite'
+    'logi-options-plus'
+    'logitune'
+    'logitech-presentation'
+    'mountain-duck'
+    'parallels'
+    'snagit'
+    'tableau'
+    'yubico-yubikey-manager'
     'gitkraken'
     'postman'
     'sublime-text'
@@ -42,6 +53,7 @@ CASKS=(
     'jetbrains-toolbox'
     'maccy'
     'transmit'
+    'dropbox'
 )
 
 echo -e "Installing Formulas..."
