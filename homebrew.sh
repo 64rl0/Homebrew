@@ -15,6 +15,7 @@ FORMULAS=(
     'jesseduffield/lazygit/lazygit'
     'shc'
     'shellcheck'
+    'shfmt'
     'starship'
     'terminal-notifier'
     'tmux'
