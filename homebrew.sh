@@ -71,6 +71,7 @@ FORMULAS=(
     'bash'
     'bat'
     'git'
+    'gitleaks'
     'vim'
     'jesseduffield/lazygit/lazygit'
     'shc'
