@@ -91,6 +91,7 @@ FORMULAS=(
     'python@3.10'
     'python@3.9'
     'jq'
+    'nmap'
 )
 
 CASKS=(
