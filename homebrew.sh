@@ -101,6 +101,7 @@ CASKS=(
     'db-browser-for-sqlite'
     'logi-options-plus'
     'logitune'
+    # 'logitech-presentation'
     'mountain-duck'
     'parallels'
     'snagit'
