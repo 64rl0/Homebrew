@@ -119,6 +119,7 @@ CASKS=(
     'transmit'
     'dropbox'
     'hhkb-studio'
+    'displaylink'
 )
 
 echo -e "\n${bold_green}########################\n# Installing Formulas...\n########################${end}\n"
