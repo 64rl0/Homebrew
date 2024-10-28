@@ -89,7 +89,7 @@ FORMULAS=(
     'python@3.12'
     'python@3.11'
     'python@3.10'
-    'python@3.9'
+    # 'python@3.9'
     'jq'
     'nmap'
 )
