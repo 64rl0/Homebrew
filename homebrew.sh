@@ -118,6 +118,7 @@ CASKS=(
     'maccy'
     'transmit'
     'dropbox'
+    'hhkb-studio'
 )
 
 echo -e "\n${bold_green}########################\n# Installing Formulas...\n########################${end}\n"
