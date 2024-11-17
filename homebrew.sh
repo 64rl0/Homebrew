@@ -104,7 +104,6 @@ CASKS=(
     'hhkb-studio'
     'jetbrains-toolbox'
     'logi-options-plus'
-    # 'logitech-presentation'
     'logitune'
     'maccy'
     'mountain-duck'
