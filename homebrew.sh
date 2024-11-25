@@ -95,6 +95,8 @@ FORMULAS=(
 
 CASKS=(
     'alacritty'
+    'alfred'
+    'amazon-workspaces'
     'db-browser-for-sqlite'
     'displaylink'
     'dropbox'
