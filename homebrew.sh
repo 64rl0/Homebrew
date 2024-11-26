@@ -98,6 +98,7 @@ CASKS=(
     'alfred'
     'amazon-workspaces'
     'db-browser-for-sqlite'
+    'discretescroll'
     'displaylink'
     'dropbox'
     'gitkraken'
