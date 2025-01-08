@@ -105,6 +105,7 @@ CASKS=(
     'gitkraken'
     'google-chrome'
     'hhkb-studio'
+    'kaleidoscope'
     'jetbrains-toolbox'
     'logi-options-plus'
     'logitune'
