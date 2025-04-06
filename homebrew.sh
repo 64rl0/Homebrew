@@ -77,7 +77,6 @@ FORMULAS=(
     'jesseduffield/lazygit/lazygit'
     'jq'
     'nmap'
-    'postgresql'
     'python@3.11'
     'python@3.12'
     'python@3.13'
