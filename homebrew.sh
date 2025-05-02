@@ -89,6 +89,7 @@ FORMULAS=(
     'unison'
     'vim'
     'wget'
+    'xz'
     'yazi'
     'zsh-autosuggestions'
     'zsh-syntax-highlighting'
