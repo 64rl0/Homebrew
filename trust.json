@@ -1,5 +1,10 @@
 {
   "trustedformulae": [
-    "anomalyco/tap/opencode"
+  ],
+  "trustedtaps": [
+    "anomalyco/tap",
+    "osx-cross/arm",
+    "osx-cross/avr",
+    "qmk/qmk"
   ]
 }
