@@ -110,6 +110,7 @@ CASKS=(
     'maccy'
     'mountain-duck'
     'notion'
+    'opensc'
     'parallels'
     'postman'
     'quip'
